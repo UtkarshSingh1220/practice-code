@@ -6,14 +6,16 @@ import java.util.List;
 public class SecondLargest {
     public static void main(String[] args) {
 
-        String[] arr = {"I","Like","Apple"};
-        String str = "I Like Apple";
+        int[] inArr = {7, 0, 4, 2, 5, 0, 6, 4, 0, 5};
+
+//        String[] arr = {"I","Like","Apple"};
+//        String str = "I Like Apple";
         //,9,14,20,21};
 
 
 
         //int[] arrs = {0, 2, 4, 6, 8};//,9,10,12};
-        System.out.println(matchString(str , arr));
+        // System.out.println(matchString(str , arr));
 
        // System.out.println(reversedString("utkarsh".toCharArray()));
     }

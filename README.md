@@ -1,2 +1,13 @@
 # practice-code
-coding question with solutions 
+coding questions with solutions 
+Intellij 
+GitHub
+Java
+*  GoldMan Sachs *
+*  J P Morgan *
+*  Morgan Stanley
+*  LandMark Group *
+*  Flipkart *
+*  Amazon *
+*  KPMG *
+*  Deloite *

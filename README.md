@@ -1,9 +1,9 @@
 # practice-code
 
 coding questions with solutions 
-Intellij 
-GitHub
-Java
+* Intellij * 
+* GitHub *
+* Java *
 
 *  GoldMan Sachs 
 *  J P Morgan 

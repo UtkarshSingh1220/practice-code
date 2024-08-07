@@ -114,7 +114,16 @@ public class TreeTraversal {
             System.out.print(" -> ");
             rightViewTraversal(root.right);
         }
-
     }
 
+    public static void ViewTraversal(Tree root) {
+        if(root==null){
+            return;
+        }
+        System.out.print(root.val);
+        if(root.right!=null){
+            System.out.print(" -> ");
+            rightViewTraversal(root.right);
+        }
+    }
 }
